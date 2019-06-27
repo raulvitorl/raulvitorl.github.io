@@ -2005,7 +2005,7 @@ nav a:hover {
 }
 
 .banner-area .overlay-bg {
-  background-color: linear-gradient(#3ea7f6, #88c3f0);;
+  background: rgba(0, 191, 255, 0.8);
 }
 
 @media (max-width: 767px) {
